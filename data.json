@@ -1,0 +1,43 @@
+{
+    "timeline":
+    {
+        "headline":"Uppsoft Timeline",
+        "type":"default",
+		"text":"请各位同行学完善自己的资料以及作品.",
+        "asset":
+                {
+                    "media":"images/logo.png",
+                    "credit":"Copyright: ***",
+                    "caption":"沈阳师范大学优软工作室"
+                },
+        "date": [
+            {
+                "startDate":"2012.*.*",
+                "headline":"工作室成立"
+            },
+            {
+                "startDate":"2012.*.*",
+                "headline":"**加入",
+                "text":"***",
+                "asset":
+                {
+                    "media":"images/avatar/#.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012.*.*",
+                "headline":"**]加入",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+        ]
+    }
+}
